@@ -19,9 +19,9 @@ Create a class name it as Character, and use following methods and attribute.
 		- when displaylife is called, it return current life attribute value
 		- when displayscore is called, it return current score attribute value
 
-Perform the following operations with Character class
--> create 1 object for Character class and initialise the name as Mario
--> call the kicked method
--> call the stabbed method
--> call punched method
--> call stabbed method
+       Perform the following operations with Character class
+         -> create 1 object for Character class and initialise the name as Mario
+         -> call the kicked method
+         -> call the stabbed method
+         -> call punched method
+         -> call stabbed method
